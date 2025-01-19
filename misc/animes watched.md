@@ -1,4 +1,4 @@
-### Favs: 
+### Favorites:
 1. Konosuba: God's Blessing on This Wonderful World!
 2. Horimiya
 3. To Your Eternity
