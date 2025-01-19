@@ -23,9 +23,6 @@ Contact me on discord: `warmchocolatedrink`
       <img src="https://github-readme-stats.vercel.app/api?username=chocolatedrink&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400"/>
    </div>
    <div style="text-align: left;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chocolatedrink&theme=dark&hide_border=true" width="400"/>
-   </div>
-   <div style="text-align: left;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatedrink&theme=dark&show_icons=true&hide_border=true&layout=compact" width="290"/>
    </div>
 </details>
