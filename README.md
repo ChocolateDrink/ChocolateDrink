@@ -4,7 +4,6 @@
 - Web Extensions
 - Roblox Scripts
 - Bots for Websites
-- Browser Game "Tools"
 - Anti Security Tools
 
 ### Languages i know
