@@ -56,40 +56,41 @@
 50. One-Punch Man
 51. Onimai: I'm Now Your Sister!
 52. Oshi no Ko
-53. Platinum End
-54. Plunderer
-55. Rascal Does Not Dream Of Bunny Girl Senpai
-56. Re:Zero
-57. Redo of Healer
-58. Reincarnated as a Sword
-59. Ron Kamonohashi's Forbidden Deduction
-60. Sasaki and Peeps
-61. Seven Deadly Sins
-62. Solo Leveling
-63. Spirited Away
-64. Spy × Family
-65. Sword Art Online
-66. Sword Art Online Alternative Gun Gale Online
-67. Talentless Nana
-68. That Time I Got Reincarnated as a Slime
-69. The Angel Next Door Spoils Me Rotten
-70. The Apothecary Diaries
-71. The Demon Sword Master of Excalibur Academy
-72. The Eminence in Shadow
-73. The Fruit of Grisaia
-74. The Greatest Demon Lord Is Reborn as a Typical Nobody
-75. The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
-76. The Ice Guy and His Cool Female Colleague
-77. The Kingdoms of Ruin
-78. The Misfit of Demon King Academy
-79. The Rising Of The Shield Hero
-80. The Slime Diaries: That Time I Got Reincarnated as a Slime
-81. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
-82. The Yakuza's Guide to Babysitting
-83. To Your Eternity
-84. Tsukimichi: Moonlit Fantasy
-85. Vermeil in Gold
-86. Villainess Level 99
-87. Wind Breaker
-88. Yokai Watch
-89. Zom 100: Bucket List of the Dead
+53. Parasyte: The Maxim
+54. Platinum End
+55. Plunderer
+56. Rascal Does Not Dream Of Bunny Girl Senpai
+57. Re:Zero
+58. Redo of Healer
+59. Reincarnated as a Sword
+60. Ron Kamonohashi's Forbidden Deduction
+61. Sasaki and Peeps
+62. Seven Deadly Sins
+63. Solo Leveling
+64. Spirited Away
+65. Spy × Family
+66. Sword Art Online
+67. Sword Art Online Alternative Gun Gale Online
+68. Talentless Nana
+69. That Time I Got Reincarnated as a Slime
+70. The Angel Next Door Spoils Me Rotten
+71. The Apothecary Diaries
+72. The Demon Sword Master of Excalibur Academy
+73. The Eminence in Shadow
+74. The Fruit of Grisaia
+75. The Greatest Demon Lord Is Reborn as a Typical Nobody
+76. The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
+77. The Ice Guy and His Cool Female Colleague
+78. The Kingdoms of Ruin
+79. The Misfit of Demon King Academy
+80. The Rising Of The Shield Hero
+81. The Slime Diaries: That Time I Got Reincarnated as a Slime
+82. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+83. The Yakuza's Guide to Babysitting
+84. To Your Eternity
+85. Tsukimichi: Moonlit Fantasy
+86. Vermeil in Gold
+87. Villainess Level 99
+88. Wind Breaker
+89. Yokai Watch
+90. Zom 100: Bucket List of the Dead
