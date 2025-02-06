@@ -11,7 +11,7 @@
 5. Berserk of Gluttony
 6. Blue Exorcist
 7. Bocchi the Rock!
-8. BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
+8. BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense
 9. By the Grace of the Gods
 10. Campfire Cooking in Another World with My Absurd Skill
 11. Cautious Hero: The Hero Is Overpowered but Overly Cautious
