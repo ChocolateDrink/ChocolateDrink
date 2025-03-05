@@ -1,0 +1,16 @@
+{
+	"authorised_to_join": [
+		
+	],
+
+	"terminated_on_join": [
+		
+	],
+
+	"allowed_to_join": [
+		
+	],
+
+	"can_friends_of_authed_join": true,
+	"can_friends_of_whitelisted_join": false
+}

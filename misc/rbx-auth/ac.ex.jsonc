@@ -1,1 +1,25 @@
+{
+	"authorised_to_join": [ // salted MD5 hash of user id
+		"d41d8cd98f00b204e9800998ecf8427e",
+		"7215ee9c7d9dc229d2921a40e899ec5f",
+		"23b58def11b45727d3351702515f86af",
+		"628631f07321b22d8c176c200c855e1b"
+	],
 
+	"terminated_on_join": [ // salted MD5 hash of blacklisted user id
+		"0cf31b2c283ce3431794586df7b0996d",
+		"1545e945d5c3e7d9fa642d0a57fc8432",
+		"a127fd1f86e4ab650f2216f09992afa4",
+		"2c04f98759d784b2d79bd72e8df2457c"
+	],
+
+	"allowed_to_join": [ // salted MD5 hash of whitelisted user id
+		"7bb0edd98f22430a03b67f853e83c2ca",
+		"8404dff87117eb65e316a6aa7a6171dd",
+		"41b394758330c83757856aa482c79977",
+		"37f91a10810c37a0f946c88eecf0bb86"
+	],
+
+	"can_friends_of_authed_join": true, // self explanatory
+	"can_friends_of_whitelisted_join": false // self explanatory
+}
