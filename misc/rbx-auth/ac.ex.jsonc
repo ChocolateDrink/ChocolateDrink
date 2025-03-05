@@ -1,5 +1,5 @@
 {
-	"authorised_to_join": [ // salted MD5 hash of user id
+	"authorised_to_join": [ // salted MD5 hash of user id, these people have more power than allowed_to_join
 		"d41d8cd98f00b204e9800998ecf8427e",
 		"7215ee9c7d9dc229d2921a40e899ec5f",
 		"23b58def11b45727d3351702515f86af",
