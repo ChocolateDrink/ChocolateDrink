@@ -89,11 +89,12 @@
 83. The Rising Of The Shield Hero
 84. The Slime Diaries: That Time I Got Reincarnated as a Slime
 85. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
-86. The Yakuza's Guide to Babysitting
-87. To Your Eternity
-88. Tsukimichi: Moonlit Fantasy
-89. Vermeil in Gold
-90. Villainess Level 99
-91. Wind Breaker
-92. Yokai Watch
-93. Zom 100: Bucket List of the Dead
+86. The Wrong Way to Use Healing Magic
+87. The Yakuza's Guide to Babysitting
+88. To Your Eternity
+89. Tsukimichi: Moonlit Fantasy
+90. Vermeil in Gold
+91. Villainess Level 99
+92. Wind Breaker
+93. Yokai Watch
+94. Zom 100: Bucket List of the Dead
